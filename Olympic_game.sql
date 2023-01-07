@@ -1,0 +1,1 @@
+create table olympic_game(id int(50),game_type varchar(60));
